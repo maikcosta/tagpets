@@ -3,6 +3,8 @@
 [TOC]
 #H1 header
 ##H2 header
+#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 
 ### tagPets
 O que é a tagPets?
