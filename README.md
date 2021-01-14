@@ -1,6 +1,8 @@
 **Nageve pelo indice**
 [TOCM]
 [TOC]
+#H1 header
+##H2 header
 
 ### tagPets
 O que é a tagPets?
