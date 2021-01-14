@@ -11,4 +11,4 @@ A tagPets é uma startup com um propósito inovar a maneira que cuidados dos nos
 
 ## Apresentação
 Confira através deste 
-[link](https://docs.google.com/presentation/d/1UiDFDm3tA9-FIqUUwvUZ9wQOAyOxMLOnax_6aUOGZYE/edit?usp=sharing "link") a nossa apresentação PITCH.
+[link](https://docs.google.com/presentation/d/1UiDFDm3tA9-FIqUUwvUZ9wQOAyOxMLOnax_6aUOGZYE/edit?usp=sharing "link"){:target="_blank"} a nossa apresentação PITCH.
