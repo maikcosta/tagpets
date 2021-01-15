@@ -11,14 +11,7 @@ A tagPets é uma startup com um propósito inovar a maneira que cuidados dos nos
 
 ## Apresentação
 Confira através deste 
-<<<<<<< HEAD
-[link](https://docs.google.com/presentation/d/1UiDFDm3tA9-FIqUUwvUZ9wQOAyOxMLOnax_6aUOGZYE/edit?usp=sharing "link"){:target="_blank"} a nossa apresentação PITCH.
 
-[link name](https://docs.google.com/presentation/d/1UiDFDm3tA9-FIqUUwvUZ9wQOAyOxMLOnax_6aUOGZYE/edit?usp=sharing){:target="_blank"}
-
-
-Kilson
-=======
 [link](https://docs.google.com/presentation/d/1UiDFDm3tA9-FIqUUwvUZ9wQOAyOxMLOnax_6aUOGZYE/edit?usp=sharing){:target="_blank"} a nossa apresentação PITCH.
 
 
@@ -26,4 +19,4 @@ Kilson
 
 Confira através deste 
 [link](https://lucid.app/lucidchart/invitations/accept/2d739e0d-ec07-4dcc-b08c-942a4d1f5d12){:target="_blank"} a nosso diagrama do banco
->>>>>>> bfdda6ccbb5c28e7abff1580941677acfca9906f
+
