@@ -1,4 +1,4 @@
-package com.tagpets.app.model;
+package com.tagpets.app.model.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
